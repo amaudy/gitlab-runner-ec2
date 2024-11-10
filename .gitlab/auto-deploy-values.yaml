@@ -1,0 +1,3 @@
+environment:
+  GITLAB_ENVIRONMENT_NAME: production
+  AWS_DEFAULT_REGION: us-east-1 
